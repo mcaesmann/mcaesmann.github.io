@@ -5,10 +5,10 @@ title: 'Going Viral: Protests and Polarization in 1932 Hamburg'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Bruno Caprettini(https://brunocaprettini.com)
+  - [Bruno Caprettini](https://brunocaprettini.com)
   - admin
-  - Joachim Voth(http://www.jvoth.com)
-  - David Yanagizawa-Drott(https://yanagizawadrott.com)
+  - [Joachim Voth](http://www.jvoth.com)
+  - [David Yanagizawa-Drott](https://yanagizawadrott.com)
 
 # Author notes (optional)
 # author_notes:

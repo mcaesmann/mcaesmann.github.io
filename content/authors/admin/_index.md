@@ -114,12 +114,12 @@ social:
   #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Welcome!
 
-I am a PhD student in Economics at the University of Zurich supervised by Joachim Voth and David Yanagizawa-Drott. More information is available in my CV.
+I am a PhD student in Economics at the [University of Zurich](https://www.econ.uzh.ch/en.html) supervised by Joachim Voth and David Yanagizawa-Drott. More information is available in my [CV](uploads/resume.pdf).
 
 My research focuses on the intersection of political economics, economic history and cultural economics.
 

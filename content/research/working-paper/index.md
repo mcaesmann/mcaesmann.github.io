@@ -1,6 +1,8 @@
 ---
 title: 'Going Viral: Protests and Polarization in 1932 Hamburg'
 
+view: 3
+
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
@@ -15,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023-03-03T00:00:00Z'
+date: 'March 2023'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,8 +29,8 @@ doi: ''
 # publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Hugo Blox Builder Conference*
-# publication_short: In *ICW*
+publication: Working Paper
+publication_short: Working Paper
 
 abstract: Political polarization is a growing concern in many countries. Are mass protests merely a sign of increasing cleavages, or do they polarize societies? In this paper, we estimate the impact of Nazi marches in 1932 Hamburg, using granular data from 622 voting precincts during 6 elections. We show propaganda can convince – but it does so the most in areas with high initial support. Importantly, marches can also backfire, repelling voters. Thus political campaigning leads to polarization. These effects diffused through social networks, measured as contagion patterns across neighborhoods from the 1918 Spanish flu outbreak. The electoral effects of social spillovers are of similar importance as direct exposure, and grow over time.
 
@@ -41,18 +43,18 @@ abstract: Political polarization is a growing concern in many countries. Are mas
 # featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Working Paper
+  url: 'research/working-paper/GoingViral_3-3-2023.pdf'
 
-url_pdf: 'research/working-paper/GoingViral_3-3-2023.pdf'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

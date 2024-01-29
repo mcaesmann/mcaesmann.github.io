@@ -10,38 +10,38 @@ first_name: Marcel
 last_name: Caesmann
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: PhD Candidate 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Zurich
-    url: https://www.uzh.ch/
+  - name: Department of Economics, University of Zurich
+    # url: https://www.uzh.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include political economy, economic history and cultural economics.
+bio: ''
 
-# Interests to show in About widget
-interests:
-  - Political Economy
-  - Economic History
-  - Cultural Economics
+# # Interests to show in About widget
+# interests:
+#   - Political Economy
+#   - Economic History
+#   - Cultural Economics
 
-# Education to show in About widget
-education:
-  courses:
-    - course: MSc in Economic History
-      institution: London School of Economics and Political Science
-      year: 2018
-    - course: BA in Sociology, Politics and Economics
-      institution: Zeppelin University
-      year: 2016
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: MSc in Economic History
+#       institution: London School of Economics and Political Science
+#       year: 2018
+#     - course: BA in Sociology, Politics and Economics
+#       institution: Zeppelin University
+#       year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -90,19 +90,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:marcel.caesmann@econ.uzh.ch
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/marcelcaesmann
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAUwCQFlHQlCUXNUa7FGf-56fdHsDRklUZvBMbHRxu8FxOQPaL3aeV6oaL3bgMLv3BWk8Ih86PxVDaJp0g&user=9CKBkJYAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/mcaesmann
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAUwCQFlHQlCUXNUa7FGf-56fdHsDRklUZvBMbHRxu8FxOQPaL3aeV6oaL3bgMLv3BWk8Ih86PxVDaJp0g&user=9CKBkJYAAAAJ
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/mcaesmann
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/marcel-caesmann-4407b6100/
@@ -117,12 +117,12 @@ social:
 highlight_name: true
 ---
 
-Hi, 
+Welcome!
 
-I'm a PhD student in economics at the University of Zurich supervised by Joachim Voth and David Yanagizawa-Drott.
+I am a PhD student in Economics at the University of Zurich supervised by Joachim Voth and David Yanagizawa-Drott. More information is available in my CV.
 
-Currently, I am visiting UC Berkeley hosted by Gérard Roland.
+My research focuses on the intersection of political economics, economic history and cultural economics.
 
-I'm an applied microeconomist interested in political economy, economic history and cultural economics.
+News: In spring 2024, I am visiting UC Berkeley hosted by Gérard Roland.
 
 {style="text-align: justify;"}

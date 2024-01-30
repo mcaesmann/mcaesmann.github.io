@@ -119,10 +119,11 @@ highlight_name: false
 
 Welcome!
 
-I am a PhD student in Economics at the [University of Zurich](https://www.econ.uzh.ch/en.html) supervised by Joachim Voth and David Yanagizawa-Drott. More information is available in my [CV](uploads/resume.pdf).
-
+I am a PhD student in Economics at the [University of Zurich](https://www.econ.uzh.ch/en.html) supervised by Joachim Voth and David Yanagizawa-Drott. 
 My research focuses on the intersection of political economics, economic history and cultural economics.
 
-News: In spring 2024, I am visiting UC Berkeley hosted by Gérard Roland.
+**News:** In Spring 2024, I am visiting UC Berkeley hosted by Gérard Roland!
+
+More information is available in my [CV](uploads/resume.pdf).
 
 {style="text-align: justify;"}

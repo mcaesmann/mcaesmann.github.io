@@ -33,7 +33,7 @@ publication_short: Working Paper
 abstract: Political polarization is a growing concern in many countries. Are mass protests merely a sign of increasing cleavages, or do they polarize societies? In this paper, we estimate the impact of Nazi marches in 1932 Hamburg, using granular data from 622 voting precincts during 6 elections. We show propaganda can convince – but it does so the most in areas with high initial support. Importantly, marches can also backfire, repelling voters. Thus political campaigning leads to polarization. These effects diffused through social networks, measured as contagion patterns across neighborhoods from the 1918 Spanish flu outbreak. The electoral effects of social spillovers are of similar importance as direct exposure, and grow over time.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Political polarization is a growing concern in many countries. Are mass protests merely a sign of increasing cleavages, or do they polarize societies? In this paper, we estimate the impact of Nazi marches in 1932 Hamburg, using granular data from 622 voting precincts during 6 elections. We show propaganda can convince – but it does so the most in areas with high initial support. Importantly, marches can also backfire, repelling voters. Thus political campaigning leads to polarization. These effects diffused through social networks, measured as contagion patterns across neighborhoods from the 1918 Spanish flu outbreak. The electoral effects of social spillovers are of similar importance as direct exposure, and grow over time.
 
 # tags: []
 

@@ -95,8 +95,8 @@ social:
     icon_pack: fab
     link: https://twitter.com/marcelcaesmann
     label: Follow me on Twitter
-    display:
-      header: true
+    # display:
+    #   header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AH70aAUwCQFlHQlCUXNUa7FGf-56fdHsDRklUZvBMbHRxu8FxOQPaL3aeV6oaL3bgMLv3BWk8Ih86PxVDaJp0g&user=9CKBkJYAAAAJ

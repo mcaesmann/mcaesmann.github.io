@@ -43,7 +43,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: PDF
-  url: 'research/working-paper/GoingViral_Feb2024.pdf'
+  url: 'research/hamburg/GoingViral_Feb2024.pdf'
 
 # url_pdf: ''
 # url_code: ''

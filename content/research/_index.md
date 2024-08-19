@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Ongoing Research
 cms_exclude: true
 
 # View.

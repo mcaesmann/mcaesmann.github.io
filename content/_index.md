@@ -20,7 +20,7 @@ sections:
           - research
         featured_only: true
     design:
-      columns: '2'
-      view: card
+      columns: '3'
+      view: card 
 
 ---

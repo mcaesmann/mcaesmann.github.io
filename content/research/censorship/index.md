@@ -6,15 +6,14 @@ title: 'Censorship in Democracy'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Janis Goldzycher 
   - Matteo Grigoletto
   - Lorenz Gschwent
 
-date: '2024-06-47T00:00:00Z'
+date: '2025-09-26T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-06-04T00:00:00Z'
+publishDate: '2025-09-26T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,10 +24,10 @@ publication_types: ['article']
 publication: "Ongoing"
 publication_short: "Ongoing"
 
-abstract: The spread of propaganda, misinformation, and biased narratives from autocratic regimes, especially on social media, is a growing concern in many democracies. Can censorship be an effective tool to curb the spread of such slanted narratives? In this paper, we study the European Union’s ban on Russian state-led news outlets after the 2022 Russian invasion of Ukraine. We analyze 775,616 tweets from 133,276 users on Twitter/X, employing a difference-in-differences strategy. We show that the ban reduced pro-Russian slant among users who had previously directly interacted with banned outlets. The impact is most pronounced among users with the highest pre-ban slant levels. However, this effect was short-lived, with slant returning to its pre-ban levels within two weeks post-enforcement. Additionally, we find a detectable albeit less pronounced indirect effect on users who had not directly interacted with the outlets before the ban. We provide evidence that other suppliers of propaganda may have actively sought to mitigate the ban’s influence by intensifying their activity, effectively counteracting the persistence and reach of the ban.
+abstract: The spread of propaganda and misinformation from autocratic regimes is a growing concern in democracies. We study the European Union’s ban on Russian state-backed news outlets after the 2022 invasion of Ukraine, analyzing 677,780 tweets from 146,633 users with a difference-in-differences design in a daily panel. The ban reduced pro-Russian tweets by 10.9\% per active user day, with strongest effects among users directly connected to the banned outlets. We find no evidence of substitution to secondary suppliers. Evidence on mechanisms indicates that the ban curtailed pro-Russian content by removing key agenda-setters. Finally, we examine the costs of censorship in a democratic context: a pre-registered experiment finds reduced satisfaction with free speech, particularly among political centrists.
 
 # Summary. An optional shortened abstract.
-summary: The spread of propaganda, misinformation, and biased narratives from autocratic regimes, especially on social media, is a growing concern in many democracies. Can censorship be an effective tool to curb the spread of such slanted narratives? In this paper, we study the European Union’s ban on Russian state-led news outlets after the 2022 Russian invasion of Ukraine. We analyze 775,616 tweets from 133,276 users on Twitter/X, employing a difference-in-differences strategy. We show that the ban reduced pro-Russian slant among users who had previously directly interacted with banned outlets. The impact is most pronounced among users with the highest pre-ban slant levels. However, this effect was short-lived, with slant returning to its pre-ban levels within two weeks post-enforcement. Additionally, we find a detectable albeit less pronounced indirect effect on users who had not directly interacted with the outlets before the ban. We provide evidence that other suppliers of propaganda may have actively sought to mitigate the ban’s influence by intensifying their activity, effectively counteracting the persistence and reach of the ban.
+summary: The spread of propaganda and misinformation from autocratic regimes is a growing concern in democracies. We study the European Union’s ban on Russian state-backed news outlets after the 2022 invasion of Ukraine, analyzing 677,780 tweets from 146,633 users with a difference-in-differences design in a daily panel. The ban reduced pro-Russian tweets by 10.9\% per active user day, with strongest effects among users directly connected to the banned outlets. We find no evidence of substitution to secondary suppliers. Evidence on mechanisms indicates that the ban curtailed pro-Russian content by removing key agenda-setters. Finally, we examine the costs of censorship in a democratic context: a pre-registered experiment finds reduced satisfaction with free speech, particularly among political centrists.
 
 # tags: []
 
@@ -38,7 +37,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: PDF
-  url: 'research/censorship/Censorship_June2024.pdf'
+  url: 'research/censorship/CensorshipInDemocracy_Sep2025.pdf'
 - name: VoxEU
   url: https://cepr.org/voxeu/columns/censorship-defend-democracy
 # url_pdf: ''

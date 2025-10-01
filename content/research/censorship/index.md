@@ -21,8 +21,8 @@ publishDate: '2025-09-26T00:00:00Z'
 publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: "Ongoing"
-publication_short: "Ongoing"
+publication: ""
+publication_short: ""
 
 abstract: "The spread of propaganda and misinformation from autocratic regimes is a growing concern in democracies. We study the European Union’s ban on Russian state-backed news outlets after the 2022 invasion of Ukraine, analyzing 677,780 tweets from 146,633 users with a difference-in-differences design in a daily panel. The ban reduced pro-Russian tweets by 10.9% per active user day, with strongest effects among users directly connected to the banned outlets. We find no evidence of substitution to secondary suppliers. Evidence on mechanisms indicates that the ban curtailed pro-Russian content by removing key agenda-setters. Finally, we examine the costs of censorship in a democratic context: A pre-registered experiment finds reduced satisfaction with free speech, particularly among political centrists."
 
@@ -70,4 +70,8 @@ links:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+
+type: "publication"
+share: false
+subtitle: "**_Work in progress_**"
 ---

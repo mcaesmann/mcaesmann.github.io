@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: Research
+      title: Working Papers
       filters:
         folders:
           - research

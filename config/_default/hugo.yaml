@@ -62,3 +62,10 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+
+# Disable social share icons for all research pages
+cascade:
+  - _target:
+      path: /research/**
+    share: false

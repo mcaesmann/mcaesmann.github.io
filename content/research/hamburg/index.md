@@ -24,10 +24,11 @@ publishDate: '2025-05-07T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article']
+# publication_types: ['article']
+publication_types: []
 
 # Publication name and optional abbreviated publication name.
-publication: "**_Revise and resubmit @ JEEA_**"
+publication: ""
 publication_short: "**_Revise and resubmit @ JEEA_**"
 
 abstract: Political polarization is a growing concern in many countries. Are mass protests merely a sign of increasing cleavages, or do they polarize societies? In this paper, we estimate the impact of Nazi marches in 1932 Hamburg, using granular data from 622 voting precincts during 6 elections. We show propaganda can convince – but it does so the most in areas with high initial support. Importantly, marches can also backfire, repelling voters. Thus political campaigning leads to polarization. These effects diffused through social networks, measured as contagion patterns across neighborhoods from the 1918 Spanish flu outbreak. The electoral effects of social spillovers are of similar importance as direct exposure, and grow over time.
@@ -78,15 +79,4 @@ links:
 type: "publication"
 share: false
 subtitle: "**_Resubmitted @ JEEA_**"
-
 ---
-<!-- 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

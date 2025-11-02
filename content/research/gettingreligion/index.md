@@ -7,11 +7,11 @@ title: 'Getting Religion: Identity Formation in the Protestant Reformation'
 authors:
   - admin
 
-date: '2025-10-22T00:00:00Z'
+date: '2025-11-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-10-22T00:00:00Z'
+publishDate: '2025-11-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -35,8 +35,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Coming soon
-  url: 'https://mcaesmann.github.io/research/gettingreligion/'
+- name: PDF
+  url: 'research/gettingreligion/GettingReligion_Nov2025.pdf'
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''

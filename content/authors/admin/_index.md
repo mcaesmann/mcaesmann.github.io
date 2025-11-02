@@ -119,8 +119,11 @@ highlight_name: false
 
 Welcome!
 
-I am a PhD candidate in Economics at the [University of Zurich](https://www.econ.uzh.ch/en.html) and visited [UC Berkeley](https://econ.berkeley.edu) in Spring 2024. My research focuses on the intersection of political economics, economic history and economics of culture.
+I am a PhD candidate in Economics at the [University of Zurich](https://www.econ.uzh.ch/en.html) and holder of an [UBS Center Scholarship](https://www.ubscenter.uzh.ch/en/scholarships.html). I visited [UC Berkeley](https://econ.berkeley.edu) in Spring 2024. My research focuses on the intersection of political economics, economic history and economics of culture.
+
+[**I will be on the 2025–2026 Job Market.**]{style="color: #1976d2; font-size: 1.2em;"}
 
 More information is available in my [CV](uploads/resume.pdf).
 
 {style="text-align: justify;"}
+

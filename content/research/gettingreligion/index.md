@@ -36,7 +36,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: PDF
-  url: 'research/gettingreligion/GettingReligion_Nov2025.pdf'
+  url: 'research/gettingreligion/GettingReligion_Caesmann_JMP.pdf'
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''

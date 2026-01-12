@@ -7,7 +7,7 @@ title: 'Getting Religion: Identity Formation in the Protestant Reformation'
 authors:
   - admin
 
-date: '2026-11-12T00:00:00Z'
+date: '2026-01-12T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).

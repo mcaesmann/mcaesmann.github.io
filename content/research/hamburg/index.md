@@ -15,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-05-07T00:00:00Z'
+date: '2026-03-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-05-07T00:00:00Z'
+publishDate: '2026-03-03T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -29,7 +29,7 @@ publication_types: []
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "**_Conditionally Accepted @ JEEA_**"
+publication_short: "**_Forthcoming @ JEEA_**"
 
 abstract: Political polarization is a growing concern in many countries. Are mass protests merely a sign of increasing cleavages, or do they polarize societies? In this paper, we estimate the impact of Nazi marches in 1932 Hamburg, using granular data from 622 voting precincts during 6 elections. We show propaganda can convince – but it does so the most in areas with high initial support. Importantly, marches can also backfire, repelling voters. Thus political campaigning leads to polarization. These effects diffused through social networks, measured as contagion patterns across neighborhoods from the 1918 Spanish flu outbreak. The electoral effects of social spillovers are of similar importance as direct exposure, and grow over time.
 
@@ -44,7 +44,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: PDF
-  url: 'research/hamburg/GoingViral_May2025.pdf'
+  url: 'research/hamburg/GoingViral_March2026.pdf'
 
 # url_pdf: ''
 # url_code: ''
@@ -78,5 +78,5 @@ links:
 # slides: example
 type: "publication"
 share: false
-subtitle: "**_Conditionally Accepted @ JEEA_**"
+subtitle: "**_Forthcoming @ JEEA_**"
 ---

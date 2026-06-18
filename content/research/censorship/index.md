@@ -9,11 +9,11 @@ authors:
   - Matteo Grigoletto
   - Lorenz Gschwent
 
-date: '2025-09-26T00:00:00Z'
+date: '2026-06-18T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-09-26T00:00:00Z'
+publishDate: '2026-06-18T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,10 +25,10 @@ publication_types: []
 publication: ""
 publication_short: "Working Paper"
 
-abstract: "The spread of propaganda and misinformation from autocratic regimes is a growing concern in democracies. We study the European Union’s ban on Russian state-backed news outlets after the 2022 invasion of Ukraine, analyzing 677,780 tweets from 146,633 users with a difference-in-differences design in a daily panel. The ban reduced pro-Russian tweets by 10.9% per active user day, with strongest effects among users directly connected to the banned outlets. We find no evidence of substitution to secondary suppliers. Evidence on mechanisms indicates that the ban curtailed pro-Russian content by removing key agenda-setters. Finally, we examine the costs of censorship in a democratic context: A pre-registered experiment finds reduced satisfaction with free speech, particularly among political centrists."
+abstract: "Democracies increasingly use censorship to counter foreign propaganda, yet evidence on its consequences remains scarce. We exploit the European Union's 2022 ban on Russia Today (RT) and Sputnik as a natural experiment, using a triple-difference design that compares users connected to the banned outlets against unconnected users in EU and non-EU countries. We analyze a daily panel of 677,780 tweets from 146,633 Twitter users in seven European countries. Pro-Russia output declines by 21.7% among connected EU users; in a difference-in-differences comparison with non-EU users, total pro-Russia output among EU users falls by 13.6%. Alternative suppliers do not fill the gap: neither their pro-Russia output nor the engagement they receive rises after the ban. Consistent with an agenda-setting role of the banned outlets, the share of EU users' tweets covering the outlets' daily top-five topics decreases by 17%. A survey experiment offers suggestive evidence that such censorship can come at a cost to the very norms it is meant to defend."
 
 # Summary. An optional shortened abstract.
-summary: "The spread of propaganda and misinformation from autocratic regimes is a growing concern in democracies. We study the European Union’s ban on Russian state-backed news outlets after the 2022 invasion of Ukraine, analyzing 677,780 tweets from 146,633 users with a difference-in-differences design in a daily panel. The ban reduced pro-Russian tweets by 10.9% per active user day, with strongest effects among users directly connected to the banned outlets. We find no evidence of substitution to secondary suppliers. Evidence on mechanisms indicates that the ban curtailed pro-Russian content by removing key agenda-setters. Finally, we examine the costs of censorship in a democratic context: A pre-registered experiment finds reduced satisfaction with free speech, particularly among political centrists."
+summary: "Democracies increasingly use censorship to counter foreign propaganda, yet evidence on its consequences remains scarce. We exploit the European Union's 2022 ban on Russia Today (RT) and Sputnik as a natural experiment, using a triple-difference design that compares users connected to the banned outlets against unconnected users in EU and non-EU countries. We analyze a daily panel of 677,780 tweets from 146,633 Twitter users in seven European countries. Pro-Russia output declines by 21.7% among connected EU users; in a difference-in-differences comparison with non-EU users, total pro-Russia output among EU users falls by 13.6%. Alternative suppliers do not fill the gap: neither their pro-Russia output nor the engagement they receive rises after the ban. Consistent with an agenda-setting role of the banned outlets, the share of EU users' tweets covering the outlets' daily top-five topics decreases by 17%. A survey experiment offers suggestive evidence that such censorship can come at a cost to the very norms it is meant to defend."
 
 # tags: []
 
@@ -38,7 +38,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: PDF
-  url: 'research/censorship/CensorshipInDemocracy_Sep2025.pdf'
+  url: 'research/censorship/CensorshipInDemocracy_Jun2026.pdf'
 - name: VoxEU
   url: https://cepr.org/voxeu/columns/censorship-defend-democracy
 # url_pdf: ''

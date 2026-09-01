@@ -21,7 +21,7 @@ publication_types: []
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: "Job Market Paper"
+publication_short: ""
 
 abstract: "This paper examines how new identity markers emerge, spread, and define enduring social boundaries. I study Reformation Germany (1480–1806) using 4.9 million baptismal names from 2,210 towns to trace how families expressed religious affiliation through naming choices. Naming remained nearly identical across Catholics and Protestants for decades after 1517 but diverged sharply from 1580 onward, stabilizing by 1618. Church enforcement strengthened local identities, while social learning and conformity spread them across space. Using a staggered difference-in-differences design around Jesuit and Protestant college foundings—complemented by counterfactual placements and visitation records—I show a strong link between institutional presence and local alignment. Applying a DeGroot model of learning with spatial-lag specifications, I show that towns updated their naming toward locally shared beliefs and prevailing norms, producing lasting cultural and economic divides."
 
@@ -30,7 +30,7 @@ summary: "This paper examines how new identity markers emerge, spread, and defin
 
 # tags: []
 
-# Display this page in the Featured widget?
+# Homepage section: featured=true -> Working Papers, featured=false -> Publications
 featured: true
 
 # Custom links (uncomment lines below)

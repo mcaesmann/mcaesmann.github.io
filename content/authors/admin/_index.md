@@ -17,12 +17,12 @@ last_name: Caesmann
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate 
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Economics, University of Zurich
-    # url: https://www.uzh.ch/
+  - name: Department of Socioeconomics, Vienna University of Economics and Business (WU)
+    url: https://www.wu.ac.at/en/socioeconomics
 
 # Short bio (displayed in user profile at end of posts)
 bio: ''
@@ -90,7 +90,7 @@ bio: ''
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:marcel.caesmann@econ.uzh.ch
+    link: mailto:marcel.caesmann@wu.ac.at
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/marcelcaesmann
@@ -107,11 +107,11 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/marcel-caesmann-4407b6100/
   # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+  # To use: copy your CV to `static/uploads/cv_caesmann.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   # - icon: cv
   #   icon_pack: ai
-  #   link: uploads/resume.pdf
+  #   link: uploads/cv_caesmann.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -119,11 +119,11 @@ highlight_name: false
 
 Welcome!
 
-I am a PhD candidate in Economics at the [University of Zurich](https://www.econ.uzh.ch/en.html) and holder of an [UBS Center Scholarship](https://www.ubscenter.uzh.ch/en/scholarships.html). I visited [UC Berkeley](https://econ.berkeley.edu) in Spring 2024. My research focuses on the intersection of political economics, economic history and economics of culture.
+I am an Assistant Professor at the [Department of Socioeconomics](https://www.wu.ac.at/en/socioeconomics) of the [Vienna University of Economics and Business (WU)](https://www.wu.ac.at/en/). I received my PhD in Economics from the [University of Zurich](https://www.econ.uzh.ch/en.html), where I held an [UBS Center Scholarship](https://www.ubscenter.uzh.ch/en/scholarships.html), and visited [UC Berkeley](https://econ.berkeley.edu) in Spring 2024. My research focuses on the intersection of political economics, economic history and economics of culture.
 
 <!-- <span style="color: #1976d2;"><strong>I am on the 2025–2026 Job Market.</strong></span> -->
 
-More information is available in my [CV](uploads/resume.pdf).
+More information is available in my [CV](uploads/cv_caesmann.pdf).
 
 {style="text-align: justify;"}
 

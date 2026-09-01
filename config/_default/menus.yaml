@@ -7,10 +7,13 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: CV
-    url: 'uploads/resume.pdf'
+  - name: Publications
+    url: '#publications'
     weight: 20
-  - name: Research
+  - name: Working Papers
     url: '#research'
     weight: 30
+  - name: CV
+    url: 'uploads/cv_caesmann.pdf'
+    weight: 40
 

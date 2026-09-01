@@ -12,6 +12,19 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: publications
+    content:
+      title: Publications
+      # Papers in `research` with `featured: false` appear here (published work);
+      # papers with `featured: true` appear under Working Papers below.
+      filters:
+        folders:
+          - research
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
     id: research
     content:
       title: Working Papers
